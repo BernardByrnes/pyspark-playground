@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(where:*)",
+      "Bash(powershell -Command:*)",
+      "Bash(\"/c/Users/Ben/AppData/Local/Programs/Python/Python311/python.exe\" --version)",
+      "Bash(\"d:/Data Engineering/project/venv/Scripts/pip.exe\" freeze)",
+      "Bash(\"/c/Users/Ben/AppData/Local/Programs/Python/Python311/python.exe\" -m pip freeze)",
+      "Bash(powershell -File:*)",
+      "Bash(powershell -NoProfile -Command:*)",
+      "Bash(curl:*)",
+      "Bash(py:*)",
+      "Bash(\"/c/Users/Ben/AppData/Local/Programs/Python/Python310/python.exe\":*)",
+      "Bash(\"/c/Users/Ben/AppData/Local/Programs/Python/Python310/python.exe\" -m pip install:*)",
+      "Bash(\"/c/Users/Ben/AppData/Local/Programs/Python/Python310/python.exe\" -m pip install pyspark)",
+      "Bash(\"/c/Users/Ben/AppData/Local/Programs/Python/Python310/python.exe\" -c \"import pyspark; print\\(''PySpark version:'', pyspark.__version__\\)\")",
+      "Bash(\"/c/Users/Ben/AppData/Local/Programs/Python/Python310/python.exe\" -m pip --version)",
+      "Bash(tasklist:*)",
+      "Bash(netstat:*)",
+      "Bash(\"/c/Users/Ben/AppData/Local/Programs/Python/Python310/python.exe\" -m jupyter notebook:*)",
+      "Bash(\"/c/Users/Ben/AppData/Local/Programs/Python/Python310/python.exe\" -m pip install pyspark==3.5.1)",
+      "Bash(\"/c/Users/Ben/AppData/Local/Programs/Python/Python310/python.exe\" -m jupyter notebook --notebook-dir=\"d:/Data Engineering/project\" --no-browser)",
+      "Bash(taskkill:*)"
+    ]
+  }
+}

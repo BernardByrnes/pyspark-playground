@@ -1,0 +1,5 @@
+department,headcount,avg_salary,max_salary,min_salary,total_payroll,high_earners,high_earner_pct
+Engineering,4,90000.0,110000.0,72000.0,360000.0,3,75.0
+Data,5,81500.0,95000.0,71000.0,407500.0,3,60.0
+Unassigned,2,51500.0,55000.0,48000.0,103000.0,0,0.0
+HR,3,48500.0,52000.0,45000.0,145500.0,0,0.0

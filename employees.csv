@@ -1,0 +1,21 @@
+emp_id,name,department,salary,hire_date
+1,Alice Johnson,Engineering,95000.00,2019-03-15
+2,Bob Smith,Marketing,72000.50,2020-07-22
+3,Carol White,Engineering,105000.00,2018-01-10
+4,David Brown,HR,58000.75,2021-11-05
+5,Eva Martinez,Marketing,81000.00,2019-09-30
+6,Frank Lee,Engineering,112000.00,2017-06-14
+7,Grace Kim,Finance,88000.25,2020-02-28
+8,Henry Wilson,HR,61000.00,2022-04-18
+9,Isabel Chen,Finance,94000.50,2019-12-01
+10,James Taylor,Engineering,99000.00,2018-08-23
+11,Karen Davis,Marketing,76000.00,2021-05-11
+12,Liam Anderson,Finance,82000.75,2020-10-07
+13,Mia Thomas,HR,55000.00,2023-01-16
+14,Noah Jackson,Engineering,108000.50,2016-11-29
+15,Olivia Harris,Marketing,69000.25,2022-08-03
+16,Paul Martin,Finance,91000.00,2019-04-20
+17,Quinn Garcia,Engineering,103000.00,2018-03-12
+18,Rachel Moore,HR,63000.50,2021-09-25
+19,Samuel Clark,Marketing,78000.00,2020-06-15
+20,Tina Rodriguez,Finance,86000.25,2019-07-08

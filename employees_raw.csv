@@ -1,0 +1,16 @@
+emp_id,name,department,salary,location,hire_date,is_active
+1,Alice Mukasa,Engineering,85000,Kampala,2019-03-15,true
+2,Bob Okello,Engineering,72000,Kampala,2020-07-01,true
+3,Charlie Nakato,,55000,Nairobi,2021-01-20,true
+4,Diana Apio,Data,95000,Kampala,2018-06-10,true
+5,Eve Lubega,Data,,Kampala,2020-11-30,true
+6,Frank Ouma,HR,45000,,2022-03-01,true
+7,Grace Wanjiku,HR,52000,Nairobi,2021-08-15,true
+8,Henry Musoke,Engineering,110000,Kampala,2017-02-28,true
+9,Irene Adhiambo,Data,78000,Nairobi,,true
+10,James Kato,Engineering,68000,Kampala,2021-05-10,false
+11,Kate Birungi,,48000,Kampala,2022-01-15,true
+12,Leo Ochieng,Data,82000,Nairobi,2019-09-20,true
+13,Mary Nalongo,HR,,Kampala,2023-01-05,true
+14,Nathan Ssempala,Engineering,93000,Kampala,2018-11-12,true
+15,Olive Akinyi,Data,71000,,2020-04-18,true

@@ -1,0 +1,15 @@
+department,emp_id,name,salary,location,hire_date,is_active,salary_category,tax_rate,tax_amount,net_salary,years_at_company
+Engineering,1,Alice Mukasa,85000.0,Kampala,2019-03-15,true,High,0.3,25500.0,59500.0,7.0
+Engineering,2,Bob Okello,72000.0,Kampala,2020-07-01,true,Medium,0.25,18000.0,54000.0,5.7
+Unassigned,3,Charlie Nakato,55000.0,Nairobi,2021-01-20,true,Medium,0.25,13750.0,41250.0,5.1
+Data,4,Diana Apio,95000.0,Kampala,2018-06-10,true,High,0.3,28500.0,66500.0,7.7
+Data,5,Eve Lubega,81500.0,Kampala,2020-11-30,true,High,0.3,24450.0,57050.0,5.3
+HR,6,Frank Ouma,45000.0,Unknown,2022-03-01,true,Low,0.2,9000.0,36000.0,4.0
+HR,7,Grace Wanjiku,52000.0,Nairobi,2021-08-15,true,Medium,0.25,13000.0,39000.0,4.6
+Engineering,8,Henry Musoke,110000.0,Kampala,2017-02-28,true,High,0.3,33000.0,77000.0,9.0
+Data,9,Irene Adhiambo,78000.0,Nairobi,,true,Medium,0.25,19500.0,58500.0,
+Unassigned,11,Kate Birungi,48000.0,Kampala,2022-01-15,true,Low,0.2,9600.0,38400.0,4.1
+Data,12,Leo Ochieng,82000.0,Nairobi,2019-09-20,true,High,0.3,24600.0,57400.0,6.5
+HR,13,Mary Nalongo,48500.0,Kampala,2023-01-05,true,Low,0.2,9700.0,38800.0,3.2
+Engineering,14,Nathan Ssempala,93000.0,Kampala,2018-11-12,true,High,0.3,27900.0,65100.0,7.3
+Data,15,Olive Akinyi,71000.0,Unknown,2020-04-18,true,Medium,0.25,17750.0,53250.0,5.9

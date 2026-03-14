@@ -50,3 +50,6 @@ Thumbs.db
 
 # LFS pointer files (incomplete downloads)
 pyspark-zero-to-hero-master/datasets/
+
+# Auto-push script
+watch-and-push.ps1
